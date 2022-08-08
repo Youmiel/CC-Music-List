@@ -30,7 +30,7 @@ Please check websites' license agreements before contributing any contents to th
   - [Uppbeat FAQ](https://uppbeat.io/help/general-faq)
 - **[If you know more sites please add them here]**
 
-## Credits
+## Credits | 感谢名单
 - U_ruby
 
 
