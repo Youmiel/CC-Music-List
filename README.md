@@ -22,21 +22,20 @@ Please check websites' license agreements before contributing any contents to th
 
 ## 🎶 Related Sites | 相关网站
 
-**If you find anything wrong, please post an issue. | 如果你发现以下列表有任何不正确之处，请提交issue.**
+**If you find anything wrong, please post an issue. <br>**
+**如果你发现以下列表有任何不正确之处，请提交issue.**
 
-You can find CC music in below list
-
+You can find CC music in below list.<br>
 以下网站中的音乐是CC License音乐。
 
 - ccmixter.org
 - freepd.com
-  - CC0 1.0
+  - CC0-1.0
 - **[If you know more sites please add them here]**
 
 <br>
 
-You can find free musics in below list, at least as  the licenses declared.
-
+You can find free musics in below list, at least as  the licenses declared.<br>
 以下网站中的音乐是免费音乐，至少按照它们的协议是如此。
 
 - dova-s.jp
@@ -58,23 +57,23 @@ You can find free musics in below list, at least as  the licenses declared.
 <br>
 
 You can find royalty free music(mainly) & free music in below list. Please check site's license before using. <br>
-**Music from these sites are not incluede in [list](list.csv) currently.**
+以下网站中的音乐主要是免版税音乐，也包含部分免费音乐，使用时注意区分。
 
-以下网站中的音乐主要是免版税音乐，也包含部分免费音乐，使用时注意区分。<br>
+**Music from these sites are not incluede in [list](list.csv) currently.<br>**
 **它们提供的音乐目前不会被收录在[表格](list.csv)中。**
 
-- www.videvo.net/royalty-free-music/
+- videvo.net/royalty-free-music/
   - [Licensing (介绍了多种协议)](https://help.videvo.net/category/6-licensing)
-- www.audiolibrary.com.co/
+- audiolibrary.com.co/
   - License page not found, but as the description in their Youtube account, they have both CC music and Royalty free music.
   - 没找到协议页面，但是据Youtube介绍来说，是CC和royalty free兼具.
   - https://www.youtube.com/c/audiolibrary-channel
 - **[If you know more sites please add them here]**
 
 
+<br>
 
-
-## Credits | 感谢名单
+## 📝Credits | 感谢名单
 - U_ruby
 - YangXiaoguozi
 - zinc0x1E
