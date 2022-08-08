@@ -20,6 +20,12 @@ Please check websites' license agreements before contributing any contents to th
 
 <br>
 
+Royalty free (RF) is not equivalent to free, you can know more about it [here](https://en.wikipedia.org/wiki/Royalty-free).
+
+免版税（RF）并不等价于免费，你可以在[此处](https://baike.baidu.com/item/RF/3756823)了解更多内容。
+
+<br>
+
 ## 🎶 Related Sites | 相关网站
 
 **If you find anything wrong, please post an issue. <br>**
@@ -51,7 +57,7 @@ You can find free musics in below list, at least as  the licenses declared.<br>
 - mixkit.co/free-stock-music/
   - [Stock Music Free License](https://mixkit.co/license/#musicFree)
   - [User Terms](https://mixkit.co/terms/)
-  - [Stock Music Free License](https://mixkit.co/copyright/)
+  - [Mixkit Copyright Policy](https://mixkit.co/copyright/)
 - **[If you know more sites please add them here]**
 
 <br>
