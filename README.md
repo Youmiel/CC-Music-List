@@ -4,6 +4,8 @@ This is a CC music list based on personal flavor, mainly for video editing and s
 
 这是一个根据个人音乐喜好整理的CC-Lience音乐列表，主要用于视频剪辑和直播，长期维护，欢迎通过PR或者issue等方式添加内容。
 
+[Full List Here | 完整列表](list.csv)
+
 ## ⚠ Note | 注意事项
 
 **Please do not use this list to crawl the corresponding music resources**, to avoid putting too much pressure on these music websites as well as copyright issues. Therefore, the list should not include a straight link of music resources, also the repository should not store musics' binary resources.
@@ -20,9 +22,16 @@ Please check websites' license agreements before contributing any contents to th
 
 - ccmixter.org
 - dova-s.jp
+  - [Dova-Syndrome Terms of Use](https://dova-s.jp/EN/_contents/agreement/)
+  - [Dova-Syndrome FAQ](https://dova-s.jp/_contents/faq/)
+- freesound.org
+  - [Freesound Terms of Use](https://freesound.org/help/tos_web/)
+- uppbeat.io
+  - [Uppbeat FAQ](https://uppbeat.io/help/general-faq)
 - **[If you know more sites please add them here]**
 
-
+## Credits
+- U_ruby
 
 
 <br></br>
