@@ -34,8 +34,8 @@ Royalty free (RF) is not equivalent to free, you can know more about it [here](h
 You can find CC music in below list.<br>
 以下网站中的音乐是CC License音乐。
 
-- ccmixter.org
-- freepd.com
+- [**ccmixter.org**](http://www.ccmixter.org)
+- [**freepd.com**](https://freepd.com)
   - CC0-1.0
 - **[If you know more sites please add them here]**
 
@@ -44,20 +44,23 @@ You can find CC music in below list.<br>
 You can find free musics in below list, at least as  the licenses declared.<br>
 以下网站中的音乐是免费音乐，至少按照它们的协议是如此。
 
-- dova-s.jp
+- [**dova-s.jp**](https://dova-s.jp/)
   - [Dova-Syndrome Terms of Use](https://dova-s.jp/EN/_contents/agreement/)
   - [Dova-Syndrome FAQ](https://dova-s.jp/_contents/faq/)
-- freesound.org
+- [**freesound.org**](https://freesound.org)
   - [Freesound Terms of Use](https://freesound.org/help/tos_web/)
-- uppbeat.io
+- [**uppbeat.io**](https://uppbeat.io)
   - [Uppbeat FAQ](https://uppbeat.io/help/general-faq)
-- pixabay.com/music/
+- [**pixabay.com**](https://pixabay.com/music/)
   - [Pixabay FAQ](https://pixabay.com/service/faq/)
   - [Pixabay License](https://pixabay.com/service/license/)
-- mixkit.co/free-stock-music/
+- [**mixkit.co**](https://mixkit.co/free-stock-music/)
   - [Stock Music Free License](https://mixkit.co/license/#musicFree)
   - [User Terms](https://mixkit.co/terms/)
   - [Mixkit Copyright Policy](https://mixkit.co/copyright/)
+- [**ncs.io**](https://ncs.io)
+  - [FAQs / Usage Policy](https://ncs.io/usage-policy)
+  - [Youtobe频道](https://www.youtube.com/c/NoCopyrightSounds)
 - **[If you know more sites please add them here]**
 
 <br>
@@ -68,12 +71,12 @@ You can find royalty free music(mainly) & free music in below list. Please check
 **Music from these sites are not incluede in [list](list.csv) currently.<br>**
 **它们提供的音乐目前不会被收录在[表格](list.csv)中。**
 
-- videvo.net/royalty-free-music/
+- [**videvo.net**](https://www.videvo.net/royalty-free-music/)
   - [Licensing (介绍了多种协议)](https://help.videvo.net/category/6-licensing)
-- audiolibrary.com.co/
+- [**audiolibrary.com.co**](https://audiolibrary.com.co)
   - License page not found, but as the description in their Youtube account, they have both CC music and Royalty free music.
   - 没找到协议页面，但是据Youtube介绍来说，是CC和royalty free兼具.
-  - https://www.youtube.com/c/audiolibrary-channel
+  - [Youtube频道](https://www.youtube.com/c/audiolibrary-channel)
 - **[If you know more sites please add them here]**
 
 
@@ -83,6 +86,8 @@ You can find royalty free music(mainly) & free music in below list. Please check
 - U_ruby
 - YangXiaoguozi
 - zinc0x1E
+- lixingyu-lixingyu 
+
 
 <br></br>
 
