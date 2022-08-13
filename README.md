@@ -2,9 +2,13 @@
 
 This is a CC music list based on personal flavor, mainly for video editing and streaming. You are welcome to contribute to this list by creating pull-requsets or opening issues.
 
-这是一个根据个人音乐喜好整理的CC-Lience音乐列表，主要用于视频剪辑和直播，长期维护，欢迎通过PR或者issue等方式添加内容。
+这是一个根据个人音乐喜好整理的CC-License音乐列表，主要用于视频剪辑和直播，长期维护，欢迎通过PR或者issue等方式添加内容。
 
-[Full List Here | 完整列表](list.csv)
+[CC Music List Here | CC-License音乐列表](./CC_Music.csv)
+
+[Free Music List Here | 免费(某种意义上的)音乐列表](./Free_Music.csv)
+
+[Loyalty-Free Music List Here | 免版税音乐列表](./Loyalty_Free.csv)
 
 ## ⚠ Note | 注意事项
 
