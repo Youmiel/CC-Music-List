@@ -1,8 +1,8 @@
 # CC Music List
 
-This is a CC music list based on personal flavor, mainly for video editing and streaming. You are welcome to contribute to this list by creating pull-requsets or opening issues.
+This is a CC music (and other lincense) list based on personal flavor, mainly for video editing and streaming. You are welcome to contribute to this list by creating pull-requsets or opening issues.
 
-这是一个根据个人音乐喜好整理的CC-License音乐列表，主要用于视频剪辑和直播，长期维护，欢迎通过PR或者issue等方式添加内容。
+这是一个根据个人音乐喜好整理的CC-License（及其他）音乐列表，主要用于视频剪辑和直播，长期维护，欢迎通过PR或者issue等方式添加内容。
 
 [CC Music List Here | CC-License音乐列表](./CC_Music.csv)
 
