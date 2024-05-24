@@ -51,7 +51,7 @@ You can find free musics in below list, at least as  the licenses declared.<br>
 - [**dova-s.jp**](https://dova-s.jp/)
   - [Dova-Syndrome Terms of Use](https://dova-s.jp/EN/_contents/agreement/)
   - [Dova-Syndrome FAQ](https://dova-s.jp/_contents/faq/)
-- [**freesound.org**](https://freesound.org)
+- [**freesound.org** (更多的是声音素材而非音乐)](https://freesound.org)
   - [Freesound Terms of Use](https://freesound.org/help/tos_web/)
 - [**uppbeat.io**](https://uppbeat.io)
   - [Uppbeat FAQ](https://uppbeat.io/help/general-faq)
